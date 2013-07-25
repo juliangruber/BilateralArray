@@ -1,0 +1,23 @@
+{
+  "name": "bilateralarray",
+  "version": "0.0.1",
+  "description": "An array-like object where the zero index is at the middle of the array. tracks left and right offsets as items are added",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:hij1nx/BilateralArray.git"
+  },
+  "keywords": [
+    "array",
+    "datatype",
+    "data"
+  ],
+  "author": "hij1nx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hij1nx/BilateralArray/issues"
+  }
+}
