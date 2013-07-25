@@ -5,10 +5,10 @@ An array-like object where the zero index is at the middle of the array. tracks 
 
 ## Methods
 ### `array.left(value, ...)`
-Add the specified values to the left side of the array.
+Add the specified values to the left side of the array. When no values are specified, the entire left side of the array is returned.
 
 ### `array.right(value, ...)`
-Add the specified values to the right side of the array.
+Add the specified values to the right side of the array. When no values are specified, the entire right side of the array is returned.
 
 ## Members
 
