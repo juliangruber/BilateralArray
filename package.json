@@ -19,5 +19,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/hij1nx/BilateralArray/issues"
+  },
+  "devDependencies": {
+    "tape": "~1.0.4"
   }
 }
